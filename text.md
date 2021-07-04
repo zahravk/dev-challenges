@@ -1,5 +1,5 @@
-### Style the subheading
-- No adding extra HTML
-- Add the same class to both headings
-- Font Size: 48px
-- Colors: #FCD801, #281B2D, #00C54C
+### Make last words of both subheadings to have a little extra style
+- Add extra HTML
+- Use <strong> and <em> elements
+- Give the new element you add a class
+- The class should change the color of the text to #FFF
