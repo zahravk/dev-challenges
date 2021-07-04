@@ -1,7 +1,5 @@
-### Style the heading (All about lizards)
+### Style the subheading
 - No adding extra HTML
-- It must touch the top of the page (add enough margin and padding)
-- align in center
-- Font Size: 72px
-- Colors: #FFF 
-- Background Color: #281B2D
+- Add the same class to both headings
+- Font Size: 48px
+- Colors: #FCD801, #281B2D, #00C54C
