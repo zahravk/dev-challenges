@@ -2,7 +2,6 @@ body {
     margin: 0;
 }
 
-/* solution with h1 only */
 
 h1 {
     background-color: #281B2D;
@@ -12,21 +11,6 @@ h1 {
     margin-top: 0;
     padding: 25px 0;
 }
-
-
-/* solution with header styled */
-
-/* header {
-    background-color: #281B2D;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
-
-h1 {
-    font-size: 72px;
-    margin: 0;
-} */
 
 .subhead {
     background-color: #281B2D;
