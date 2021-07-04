@@ -1,5 +1,4 @@
-### Make last words of both subheadings to have a little extra style
-- Add extra HTML
-- Use <strong> and <em> elements
-- Give the new element you add a class
-- The class should change the color of the text to #FFF
+### Containerise the body
+- Wrap all content inside the *main* element inside a <div class="container">
+- Give it a width to stop it from becoming too wide. (1000 px)
+- Make it centered on the page
