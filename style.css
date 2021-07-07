@@ -11,7 +11,7 @@ h1 {
   text-align: center;
 }
 
-.same {
+.same{
     font-size: 48px;
   color:#FCD801; 
   background-color:#281B2D;
@@ -22,6 +22,4 @@ h1 {
   outline-width: 30px;
     margin: 10px;
   padding:5px;
-  text-align: center;
-
-}
+  text-align: center;}
