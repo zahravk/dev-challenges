@@ -17,32 +17,35 @@ h1 {
   background-color:#281B2D;
    border-bottom-style: solid;
   border-color:#00C54C; border-width: 15px;
-margin: 0 0 0 0;
-  padding:0px;
+  padding:20px;
   text-align: center;}
 
 .main-container {
     max-width: 1000px;
     margin: auto;
+  padding:0 20px;
 
 }
 
 .columns {
     display: flex; 
 }
-.column-left {float:left;}
+.column-left {float:left; padding:10px;}
 .column-right {float:right;padding:10px;
 
 
 .white-text { color: #fff }
 
 .main-content{
-    width: 50%;
-  margin-top:10%;
-    margin-right: 10%;
+    width: 65%;
+  margin-right:5%;
 }
 
-.sidebar {
-    width: 40%;
+.sidebar {width:30%;
+  padding:20px; 
+  background-color:#80ffdb;
+   }
   
+  .col-right {
+    margin-left: 25px;
 }
